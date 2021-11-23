@@ -1,5 +1,4 @@
 def main():
-    print('My first git program')
     print('hello')
     print('hello world')
 
